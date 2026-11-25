@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+FLT_SAS/
+*.SAS7BDAT
+*.sas7bdat
